@@ -63,7 +63,7 @@ def main() -> int:
                             int((now - start) * 1000) + TOTAL_PERIOD * i * 1000,
                             0,
                             0,
-                            yaw if yaw <= math.pi else yaw - 2 * math.pi,  # Scale it to [-pi, pi]
+                            (yaw if yaw <= math.pi else yaw - 2 * math.pi),  # Scale it to [-pi, pi]
                             0,
                             0,
                             YAW_SPEED,

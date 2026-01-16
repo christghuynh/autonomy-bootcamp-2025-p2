@@ -17,7 +17,11 @@ class AddRandom:
     """
 
     def __init__(
-        self, seed: int, max_random_term: int, add_change_count: int, local_logger: logger.Logger
+        self,
+        seed: int,
+        max_random_term: int,
+        add_change_count: int,
+        local_logger: logger.Logger,
     ) -> None:
         """
         Constructor seeds the RNG and sets the max add and
