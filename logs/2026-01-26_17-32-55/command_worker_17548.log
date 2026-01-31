@@ -1,0 +1,8 @@
+17:32:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command_worker.py | command_worker | 52] Logger initialized
+17:32:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command_worker.py | command_worker | 70] Received telemetry data
+17:32:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command.py | run | 85] Average velocity: (0.0, 0.0, 4.0) m/s
+17:32:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command_worker.py | command_worker | 70] Received telemetry data
+17:32:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command.py | run | 85] Average velocity: (0.0, 0.0, 1.0) m/s
+17:32:58: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command_worker.py | command_worker | 70] Received telemetry data
+17:32:58: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command.py | run | 85] Average velocity: (0.0, 0.0, 0.6666666666666666) m/s
+17:32:58: [ERROR] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\command\command.py | run | 138] Could not run command
