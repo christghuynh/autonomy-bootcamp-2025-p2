@@ -34,7 +34,7 @@ class Command:  # pylint: disable=too-many-instance-attributes
 
     @classmethod
     def create(
-        cls,
+        cls: type["Command"],
         connection: mavutil.mavfile,
         target: Position,
         local_logger: logger.Logger,
@@ -47,7 +47,7 @@ class Command:  # pylint: disable=too-many-instance-attributes
         )  #  Create a Command object
 
     def __init__(
-        self,
+        self: "Command",
         key: object,
         connection: mavutil.mavfile,
         target: Position,
@@ -68,7 +68,9 @@ class Command:  # pylint: disable=too-many-instance-attributes
         self.vzi = 0
         self.times_received = 0
 
-    def run(self, data: telemetry.TelemetryData) -> "tuple[True, str] | tuple [False, None]":
+    def run(
+        self: "Command", data: telemetry.TelemetryData
+    ) -> "tuple[True, str] | tuple [False, None]":
         """
         Make a decision based on received telemetry data.
         """

@@ -18,7 +18,7 @@ class HeartbeatSender:
 
     @classmethod
     def create(
-        cls,
+        cls: type["HeartbeatSender"],
         connection: mavutil.mavfile,
         local_logger: logger.Logger,  # Put your own arguments here
     ) -> "tuple[True, HeartbeatSender] | tuple[False, None]":
@@ -30,7 +30,10 @@ class HeartbeatSender:
         # Create a HeartbeatSender object
 
     def __init__(
-        self, key: object, connection: mavutil.mavfile, local_logger: logger.Logger
+        self: "HeartbeatSender",
+        key: object,
+        connection: mavutil.mavfile,
+        local_logger: logger.Logger,
     ) -> None:
         assert key is HeartbeatSender.__private_key, "Use create() method"
 
@@ -39,7 +42,7 @@ class HeartbeatSender:
         self.local_logger.info("Heartbeat sent")
         self.connection = connection
 
-    def run(self) -> tuple[bool, None]:
+    def run(self: "HeartbeatSender") -> tuple[bool, None]:
         """
         Attempt to send a heartbeat message.
         """

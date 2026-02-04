@@ -74,7 +74,7 @@ class Telemetry:
 
     @classmethod
     def create(
-        cls,
+        cls: type["Telemetry"],
         connection: mavutil.mavfile,
         local_logger: logger.Logger,
     ) -> "tuple[True, Telemetry] | tuple[False, None]":
@@ -84,7 +84,7 @@ class Telemetry:
         return True, cls(cls.__private_key, connection, local_logger)
 
     def __init__(
-        self,
+        self: "Telemetry",
         key: object,
         connection: mavutil.mavfile,
         local_logger: logger.Logger,
@@ -97,7 +97,7 @@ class Telemetry:
         self.timeout = 3
 
     def run(
-        self,
+        self: "Telemetry",
     ) -> "tuple[True, TelemetryData] | tuple[False, None]":
         """
         Receive LOCAL_POSITION_NED and ATTITUDE messages from the drone,
