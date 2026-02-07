@@ -1,0 +1,46 @@
+16:39:58: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 48] Logger initialized
+16:39:58: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:39:59: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:00: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:00: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:00: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:01: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:02: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:02: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:02: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:03: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:03: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:04: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 2 heartbeat(s) missed
+16:40:04: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:05: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 3 heartbeat(s) missed
+16:40:05: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:06: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 4 heartbeat(s) missed
+16:40:06: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:07: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 5 heartbeat(s) missed
+16:40:07: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 59] Drone Disconnected
+16:40:07: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:08: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 6 heartbeat(s) missed
+16:40:08: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 59] Drone Disconnected
+16:40:08: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:09: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 7 heartbeat(s) missed
+16:40:09: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 59] Drone Disconnected
+16:40:09: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:10: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 8 heartbeat(s) missed
+16:40:10: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 59] Drone Disconnected
+16:40:10: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:11: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:12: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:12: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:12: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:13: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:14: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:14: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:14: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:15: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:16: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:16: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:17: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 53] Heartbeat message received
+16:40:18: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 1 heartbeat(s) missed
+16:40:18: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat
+16:40:19: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver.py | run | 56] 2 heartbeat(s) missed
+16:40:19: [WARNING] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_receiver_worker.py | heartbeat_receiver_worker | 68] Failed to receive Heartbeat

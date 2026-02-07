@@ -1,2 +1,27 @@
-14:49:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\common\modules\logger\logger_main_setup.py | setup_main_logger | 62] main logger initialized
-14:49:49: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | main | 109] Connected!
+16:39:56: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\common\modules\logger\logger_main_setup.py | setup_main_logger | 62] main logger initialized
+16:39:57: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | main | 110] Connected!
+16:39:58: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:39:59: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:00: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:00: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:01: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:02: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:02: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:03: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:04: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:05: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:06: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:07: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Disconnected
+16:40:08: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Disconnected
+16:40:09: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Disconnected
+16:40:10: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Disconnected
+16:40:11: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:12: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:12: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:13: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:14: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:14: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:15: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:16: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:17: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected
+16:40:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_heartbeat_receiver.py | read_queue | 69] Heartbeat status: Connected

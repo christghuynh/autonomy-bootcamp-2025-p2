@@ -63,9 +63,10 @@ def read_queue(
     """
     Read and print the output queue.
     """
-    while not controller.is_exit_requested() and not queue.queue.empty():
-        status = queue.queue.get(timeout=1)
-        main_logger.info(f"Heartbeat status: {status}")
+    while not controller.is_exit_requested():
+        if not queue.queue.empty():
+            status = queue.queue.get(timeout=1)
+            main_logger.info(f"Heartbeat status: {status}")
 
 
 # =================================================================================================
@@ -126,7 +127,7 @@ def main() -> int:
     threading.Timer(
         HEARTBEAT_PERIOD * (NUM_TRIALS * 2 + DISCONNECT_THRESHOLD + NUM_DISCONNECTS + 2),
         stop,
-        args=(controller, queue),
+        args=(controller,),
     ).start()
 
     # Read the main queue (worker outputs)

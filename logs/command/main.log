@@ -1,38 +1,38 @@
-14:51:30: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\common\modules\logger\logger_main_setup.py | setup_main_logger | 62] main logger initialized
-14:51:32: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | main | 136] Connected!
-14:51:32: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGE_ALTITUDE 1.00
-14:51:32: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGE_ALTITUDE -1.00
-14:51:35: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 63.43
-14:51:36: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
-14:51:36: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 116.57
-14:51:37: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
-14:51:37: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 63.43
-14:51:38: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
-14:51:38: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 26.57
-14:51:39: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
-14:51:39: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
-14:51:40: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
-14:51:40: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
-14:51:41: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 135.00
-14:51:41: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -26.57
-14:51:42: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
-14:51:42: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
-14:51:43: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
-14:51:43: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
-14:51:44: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -135.00
-14:51:44: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -63.43
-14:51:45: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
-14:51:45: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -116.57
-14:51:46: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
-14:51:46: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -63.43
-14:51:47: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
-14:51:48: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:00: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\common\modules\logger\logger_main_setup.py | setup_main_logger | 62] main logger initialized
+16:43:01: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | main | 136] Connected!
+16:43:02: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGE_ALTITUDE 1.00
+16:43:02: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGE_ALTITUDE -1.00
+16:43:05: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 63.43
+16:43:06: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
+16:43:06: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 116.57
+16:43:07: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
+16:43:07: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 63.43
+16:43:08: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
+16:43:08: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 26.57
+16:43:09: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
+16:43:09: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
+16:43:10: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 45.00
+16:43:10: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 90.00
+16:43:11: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW 135.00
+16:43:11: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -26.57
+16:43:12: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
+16:43:12: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
+16:43:13: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
+16:43:13: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
+16:43:14: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -135.00
+16:43:14: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -63.43
+16:43:15: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
+16:43:15: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -116.57
+16:43:16: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -45.00
+16:43:16: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -63.43
+16:43:17: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] CHANGING YAW -90.00
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None
+16:43:18: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\tests\integration\test_command.py | read_queue | 80] None

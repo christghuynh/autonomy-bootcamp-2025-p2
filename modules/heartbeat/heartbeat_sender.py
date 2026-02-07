@@ -42,15 +42,13 @@ class HeartbeatSender:
         self.local_logger.info("Heartbeat sent")
         self.connection = connection
 
-    def run(self: "HeartbeatSender") -> tuple[bool, None]:
+    def run(self: "HeartbeatSender") -> None:
         """
         Attempt to send a heartbeat message.
         """
         self.connection.mav.heartbeat_send(
             mavutil.mavlink.MAV_TYPE_GCS, mavutil.mavlink.MAV_AUTOPILOT_INVALID, 0, 0, 0
         )
-
-        return True, None
 
 
 # =================================================================================================

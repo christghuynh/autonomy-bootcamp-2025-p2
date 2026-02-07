@@ -62,9 +62,7 @@ def heartbeat_sender_worker(
         controller.check_pause()
 
         start_time = time.time()
-        success, _ = sender.run()
-        if not success:
-            local_logger.warning("Failed to send Heartbeat")
+        sender.run()
 
         sleep_time = HEARTBEAT_PERIOD - (time.time() - start_time)
         if sleep_time > 0:

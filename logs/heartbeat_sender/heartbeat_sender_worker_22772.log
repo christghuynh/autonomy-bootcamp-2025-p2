@@ -1,0 +1,3 @@
+16:26:59: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_sender_worker.py | heartbeat_sender_worker | 49] Logger initialized
+16:26:59: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_sender.py | __init__ | 42] Heartbeat sent
+16:26:59: [INFO] [C:\Users\chris\warg-autonomy-bootcamp\autonomy-bootcamp-2025-p2\modules\heartbeat\heartbeat_sender_worker.py | heartbeat_sender_worker | 59] Heartbeat sender initialized

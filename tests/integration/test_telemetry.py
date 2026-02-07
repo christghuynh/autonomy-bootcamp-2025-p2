@@ -137,9 +137,9 @@ def main() -> int:
     telemetry_worker.telemetry_worker(
         # Put your own arguments here
         connection,
-        controller,
-        main_logger,
         queue,
+        main_logger,
+        controller,
     )
     # =============================================================================================
     #                          ↑ BOOTCAMPERS MODIFY ABOVE THIS COMMENT ↑
