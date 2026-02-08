@@ -234,10 +234,6 @@ def main() -> int:
             if status == "Disconnected":
                 break
             main_logger.info(f"Heartbeat Status: {status}")
-        if not telemetry_to_command_queue.queue.empty():
-            telemetry_data = telemetry_to_command_queue.queue.get_nowait()
-            main_logger.info(f"Telemetry data: {telemetry_data}")
-            telemetry_to_command_queue.queue.put(telemetry_data)
         if not command_to_main_queue.queue.empty():
             command_info = command_to_main_queue.queue.get_nowait()
             main_logger.info(f"Command info: {command_info}")
